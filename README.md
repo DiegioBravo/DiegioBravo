@@ -34,7 +34,7 @@
 
 ## Sobre mí
 
-Ingeniero en Automática Industrial con **+4 años de experiencia como Profesional de Datos** en el sector salud. Apasionado por transformar datos en decisiones estratégicas mediante automatización, análisis y visualización.
+Ingeniero en Automática Industrial con **+3 años de experiencia como Profesional de Datos** en el sector salud. Apasionado por transformar datos en decisiones estratégicas mediante automatización, análisis y visualización.
 
 - 🏆 **Finalista Nacional** — Concurso de Datos Abiertos del MinTIC 2025
 - ⚡ Automatización de procesos de gestión de riesgo en salud, reduciendo tiempos de procesamiento manual en un **80%**
