@@ -37,8 +37,8 @@
 Ingeniero en Automática Industrial con **+4 años de experiencia como Profesional de Datos** en el sector salud. Apasionado por transformar datos en decisiones estratégicas mediante automatización, análisis y visualización.
 
 - 🏆 **Finalista Nacional** — Concurso de Datos Abiertos del MinTIC 2025
-- ⚡ Automatización de procesos de gestión de riesgo en salud (**Cardiovascular** y **Renal**), reduciendo tiempos de procesamiento manual en un **80%**
-- 🔄 Diseño de pipelines **ETL** para procesar datos de **+500.000 afiliados**
+- ⚡ Automatización de procesos de gestión de riesgo en salud, reduciendo tiempos de procesamiento manual en un **80%**
+- 🔄 Diseño de pipelines **ETL** para procesar grandes cantidades de datos 
 - 📊 Desarrollo de **tableros ejecutivos en Power BI** para toma de decisiones estratégicas
 - 🎓 **Ingeniería en Automática Industrial** — Universidad del Cauca (2014)
 
@@ -95,7 +95,7 @@ Plataforma que integra visión por computadora (YOLO, EasyOCR) con PLCs industri
 ## Logros Destacados
 
 - 🏆 **Finalista — Concurso Nacional de Datos Abiertos (MinTIC 2025):** Seleccionado entre los mejores proyectos del país con una solución de datos abiertos de impacto social.
-- ⚡ **Automatización integral** de dos procesos críticos de gestión de riesgo en salud (Cardiovascular y Renal), reduciendo tiempos de procesamiento manual en un **80%** .
+- ⚡ **Automatización integral** de procesos críticos de gestión de riesgo en salud, reduciendo tiempos de procesamiento manual en un **80%** .
 - 💰 **Ahorro en costos operativos** mediante la optimización de pipelines ETL que centralizaron datos dispersos en múltiples fuentes.
 
 ---
